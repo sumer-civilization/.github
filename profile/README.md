@@ -1,12 +1,5 @@
-## Hi there 👋
+# Let's Rebuild Sumer Civilization with Technology 🔺
+Sumer civilization put first brick for today's world. They are not exist in 21th century but we can rebuild their systems with technology.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+## [What is Sumer?](https://www.history.com/topics/ancient-middle-east/sumer)
+Sumer was an ancient civilization founded in the Mesopotamia region of the Fertile Crescent situated between the Tigris and Euphrates rivers. Known for their innovations in language, governance, architecture and more. Writing remains one of the most important cultural achievements of the Sumerians, allowing for meticulous record keeping from rulers down to farmers and ranchers. The oldest written laws date back to 2400 B.C. in the city of Ebla, where the Code of Er-Nammu was written on tablets.
